@@ -2,6 +2,8 @@
 
 Consider the flowchart for hypothesis testing once more:
 
+![](hypo-testing.001.jpeg)
+
 Notice that the boxes for both the __null__ and __alternative hypothesis__ are connected to the box about determining the __critical region__.  Both of these boxes are connected here as both the __null__ and __alternative hypothesis__ are used when we determine the __critical region__.  It is useful to think about what we would do if were only using the null hypothesis to set the size of the critical region.  
 
 Let's suppose that we know what the distribution for the test statistic is under the null hypothesis and that we want to perform our test at the 5% __significance level__.  By setting the significance level in this way we are stating that the probability that the __test statistic__ falls within the __critical region__ should be 5% if the null hypothesis is true.  There are, however, an infinite number of ways to set the critical region so as to ensure so that the probability of being in within it is 5%.
